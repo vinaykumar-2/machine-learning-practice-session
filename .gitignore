@@ -1,0 +1,8 @@
+venv/
+*.dll
+*.pkl
+*.h5
+*.pth
+*.joblib
+__pycache__/
+*.sav
